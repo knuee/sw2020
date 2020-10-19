@@ -25,22 +25,22 @@
 
 ## 2. A급 (알파벳 순서)
 
-[A급] (http://github.com/Bannng
+[A급] http://github.com/Bannng
 
-[A급] (http://github.com/di03266/samsungman.git
+[A급] http://github.com/di03266/samsungman.git
 
-[A급] (http://github.com/doorumi39
+[A급] http://github.com/doorumi39
 
-[A급] (http://github.com/HaYoungg/HY
+[A급] http://github.com/HaYoungg/HY
 
-[A급] (http://github.com/Jeongbinheo
+[A급] http://github.com/Jeongbinheo
 
-[A급] (http://github.com/LaSeoal
+[A급] http://github.com/LaSeoal
 
-[A급] (http://github.com/passawayj
+[A급] http://github.com/passawayj
 
-[A급] (http://github.com/qorwp37
+[A급] http://github.com/qorwp37
 
-[A급] (http://github.com/wkdtjddn4296
+[A급] http://github.com/wkdtjddn4296
 
-[A급] (http://github.com/Yoonsangchul/knustudent2016111577.git
+[A급] http://github.com/Yoonsangchul/knustudent2016111577.git
