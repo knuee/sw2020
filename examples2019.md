@@ -1,6 +1,6 @@
-## 2019년 상위 평가 예
+# 2019년 상위 평가 예
 
-1. S급 (알파벳 순서)
+## 1. S급 (알파벳 순서)
 
 [S급] (http://github.com/Dongik-Bae)
 
@@ -23,7 +23,7 @@
 [S급] (http://github.com/yh08037)
 
 
-2. A급 (알파벳 순서)
+## 2. A급 (알파벳 순서)
 
 [A급] (http://github.com/Bannng
 
