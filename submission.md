@@ -1,6 +1,7 @@
 # 2020년 SW중심대학 전자공학부 연계전공(IT융합) 학생참여 평가 신청방법/일정/작성/평가 설명
 
 ## 신청방법: [Google forms 를 통해 평가신청](https://docs.google.com/forms/d/e/1FAIpQLSeOBa-ypL9Fm6xFZpUE-ymmUlp2sy91yAHfeX8F_DAoFHW8nA/viewform?usp=sf_link)
+### [신청자격 확인](classlist.md)
 
 ## 일정(진행 상황에 따라 변경될 수 있습니다)
 
