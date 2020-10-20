@@ -47,3 +47,5 @@
 | `2010-10-20 13:20` | 김철수(예시) | 자율과제형  | https://github.com/Katinor/4ears-bot_V3 |
 | `2010-10-20 14:27` | 이영희(예시) | 외부참여형  | https://github.com/devholic/somalife |
 | `2010-10-20 15:55` | 제갈공명(예시) | 연구실연수생형  | https://github.com/Pitt-CSC/Summer2021-Internships |
+
+### 질의응답: [Google form 이용](https://docs.google.com/forms/d/e/1FAIpQLSdN5AtF8bDQDJN3Vh896W_iKJfcE2RMJBCAl9A69kzLvkrcow/viewform?usp=sf_link)
