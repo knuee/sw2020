@@ -12,4 +12,4 @@
     - 추후 적발이 되면 장학급 반납과 함께 전자공학부/소프트웨어교육센터/정부연구비관리부서에 보고됩니다. 
     - 이런 일이 발생하지 않도록 정정당당하게 본인이 한 것만을 올리기 바랍니다.
 
-### 질의응답: [Google form 이용](https://docs.google.com/forms/d/e/1FAIpQLSdN5AtF8bDQDJN3Vh896W_iKJfcE2RMJBCAl9A69kzLvkrcow/viewform?usp=sf_link)
+### 추가질의: [Google form 이용](https://docs.google.com/forms/d/e/1FAIpQLSdN5AtF8bDQDJN3Vh896W_iKJfcE2RMJBCAl9A69kzLvkrcow/viewform?usp=sf_link)
