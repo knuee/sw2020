@@ -20,3 +20,4 @@
 | `2010-10-20 09:34` | 2020년 평가 | 교과목형 | https://github.com/knuee/sw2020/ | 1 | 1 | 1 | 1 | 43 | - |
 
 ### 평가결과에 대한 [appeal (Google form 이용)](https://docs.google.com/forms/d/e/1FAIpQLScZYCGBLcq8zOybtAGVubsTtUArOP7mBwHj64DF6p1cZoDF2Q/viewform?usp=sf_link)
+### 기타질의응답: [Google form 이용](https://docs.google.com/forms/d/e/1FAIpQLSdN5AtF8bDQDJN3Vh896W_iKJfcE2RMJBCAl9A69kzLvkrcow/viewform?usp=sf_link)
