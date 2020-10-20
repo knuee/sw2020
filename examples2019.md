@@ -2,15 +2,15 @@
 
 ## 1. S+급 (알파벳 순서)
 
-[S+급] (http://github.com/Dongik-Bae) 
+[S+급, 교과목/학부연수생 혼합] (http://github.com/Dongik-Bae) 
 
-[S+급] (http://github.com/kei01138)
+[S+급, 동아리] (http://github.com/kei01138)
 
-[S+급] (http://github.com/sionji)
+[S+급, 교과목/프로젝트] (http://github.com/sionji)
 
-[S+급] (http://github.com/yh08037)
+[S+급, 학부연수생] (http://github.com/yh08037)
 
-## 2. S급 (알파벳 순서)
+## 2. S급 (알파벳 순서, 대부분 교과목)
 
 [S급] (http://github.com/psw9808) 자바, OS, C, microprocessor 등의 과목 텀 프로젝트 수행 과정 및 결과를 체계적으로 정리 
 
