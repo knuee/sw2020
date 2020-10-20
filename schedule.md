@@ -1,20 +1,18 @@
 # 2020년 SW중심대학 전자공학부 연계전공(IT융합) 학생참여 평가 일정 및 방법 
+## 본 일정 및 발표내용은 진행 상황에 따라 변경될 수 있습니다.
 
 ## 접수 및 1차평가 <u>__10/21-11/13__</u>
   1. [Google forms 를 통해 평가신청](https://docs.google.com/forms/d/e/1FAIpQLSeOBa-ypL9Fm6xFZpUE-ymmUlp2sy91yAHfeX8F_DAoFHW8nA/viewform?usp=sf_link)
   1. 11/10 1차 접수 마감 
   1. 11/13 1차 평가 결과 발표(예정, 평가 점수 취합에 따라 2-3일 늦춰질 수 있습니다.)
-
+  
 ## 2차 접수 및 평가 <u>__-11/27__</u>
   1. 11/24 2차 접수 마감
-  1. 11/27 2차 평가 결과 발표(예정)
+  1. 필요시 [Google forms 를 통해 추가신청/기존제출정보업데이트](https://docs.google.com/forms/d/e/1FAIpQLSeOBa-ypL9Fm6xFZpUE-ymmUlp2sy91yAHfeX8F_DAoFHW8nA/viewform?usp=sf_link)
+  1. 11/27 1차 수여자 검증 결과 및 2차 평가 결과 발표
 
 ## 최종 접수 및 평가 <u>__-12/10__</u>
-  1. 12/8 최종 접수 마감
-  1. 12/10 최종 평가 결과 발표(예정)
+  1. 12/8 2차 수여자 검증 결과 발표 및 추가 수여자 발표
+  1. 12/10 최종 평가 결과 및 수여자 발표
 
-## 2차평가 <u>__11/13-11/10__</u>
-
-
-## 평가방법은 
-
+## 참고: [평가방법](evaluation.md)
