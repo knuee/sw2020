@@ -1,5 +1,5 @@
-# 신청방법
-[Google forms 를 통해 평가신청](https://docs.google.com/forms/d/e/1FAIpQLSeOBa-ypL9Fm6xFZpUE-ymmUlp2sy91yAHfeX8F_DAoFHW8nA/viewform?usp=sf_link)
+# 신청방법: 
+## [Google forms 를 통해 평가신청](https://docs.google.com/forms/d/e/1FAIpQLSeOBa-ypL9Fm6xFZpUE-ymmUlp2sy91yAHfeX8F_DAoFHW8nA/viewform?usp=sf_link)
 
 # 제출된 github list
 * 여러분들이 제출하면 업데이트될 예정입니다.
