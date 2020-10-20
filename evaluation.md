@@ -29,3 +29,5 @@
 
 
 # 참고: [2019년 평가 우수 github list](example_submissions_2019.md)
+
+### 질의응답: [Google form 이용](https://docs.google.com/forms/d/e/1FAIpQLSdN5AtF8bDQDJN3Vh896W_iKJfcE2RMJBCAl9A69kzLvkrcow/viewform?usp=sf_link)
