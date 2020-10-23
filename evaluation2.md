@@ -23,10 +23,11 @@
 | `2010-10-20 09:34` | 2020년 평가 | 교과목형 | https://github.com/knuee/sw2020/ | 42 | 43 | 85 | 51 | 
 
 # 장학금 지급 액수 및 인원
-1. 1등-5등: __200만원__ x 5명
-1. 6등-15등: __150만원__ x 10명
-1. 16등-30등: __100만원__ x 15명
-1. 31등-50등: __50만원__ x 20명
+### (운영위원회를 거쳐야 해서 인원 및 장학금액이 아직 확정되진 않았습니다. 실지급액과 크게 차이나진 않을 것 같습니다.)
+1. 1등-5등: __최대 200만원__ x 5명
+1. 6등-15등: __최대 150만원__ x 10명
+1. 16등-30등: __최대 100만원__ x 15명
+1. 31등-50등: __최대 50만원__ x 20명
 
 ### 평가결과에 대한 [appeal (Google form 이용)](https://docs.google.com/forms/d/e/1FAIpQLScZYCGBLcq8zOybtAGVubsTtUArOP7mBwHj64DF6p1cZoDF2Q/viewform?usp=sf_link)
 ### 기타질의응답: [Google form 이용](https://docs.google.com/forms/d/e/1FAIpQLSdN5AtF8bDQDJN3Vh896W_iKJfcE2RMJBCAl9A69kzLvkrcow/viewform?usp=sf_link)
