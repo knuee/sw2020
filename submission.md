@@ -40,16 +40,25 @@
     1. __기타__: 내용과 이유 등
 
 # 제출된_github_list
-* 현재 예시만 있고, 여러분들이 제출하면 업데이트될 예정입니다.
 * 중복 제거 등 수작업이 필요하기 때문에 월수금 아침 10시에 그 전까지 위의 Google form을 통해 제출된 링크를 업데이트하겠습니다.
 * 제출 날짜 순으로 정렬하겠습니다.
 
-| 제출일시 | 이름 | 유형 | 주소 |
+| 제출일시 | 이름 | 주소 | 유형 | 
+|:---|:---:|:---|:---:|
+| 10/22/2020 23:31:03 | 김승현	| https://github.com/kseh1029/sw2020 | 교과목형, 하드웨어 및 소프트웨어, 운영체제에 대한 내용 | 
+| 10/23/2020 22:46:43 | 정소영	| https://github.com/cowzero | 교과목형	|
+| 10/24/2020 5:34:15 | 이근정	| https://github.com/LEE-GEUN-JEONG/KNU-SW | 교과목형, 외부참여형, 자율과제형	|
+| 10/24/2020 18:52:16 | 권세진	| https://github.com/0307kwon | 교과목형, 연구실연수생형, 자율과제형 | 
+
+
+<!-- * 현재 예시만 있고, 여러분들이 제출하면 업데이트될 예정입니다. -->
+### 예시
+| 제출일시 | 이름 | 주소 | 유형 | 
 |:---|:---:|:---:|:---|
-| `2010-10-20 09:34` | 2020년 평가 | 교과목형 | https://github.com/knuee/sw2020/ |
-| `2010-10-20 10:02` | 홍길동(예시) | 교과목형 | https://github.com/gjang7/KNU20191JavaSolution |
-| `2010-10-20 13:20` | 김철수(예시) | 자율과제형  | https://github.com/Katinor/4ears-bot_V3 |
-| `2010-10-20 14:27` | 이영희(예시) | 외부참여형  | https://github.com/devholic/somalife |
-| `2010-10-20 15:55` | 제갈공명(예시) | 연구실연수생형  | https://github.com/Pitt-CSC/Summer2021-Internships |
+| `2010-10-20 09:34` | 2020년 평가 | https://github.com/knuee/sw2020/ | 교과목형 |
+| `2010-10-20 10:02` | 홍길동(예시) | https://github.com/gjang7/KNU20191JavaSolution | 교과목형 | 
+| `2010-10-20 13:20` | 김철수(예시) | https://github.com/Katinor/4ears-bot_V3 |자율과제형  |
+| `2010-10-20 14:27` | 이영희(예시) | https://github.com/devholic/somalife | 외부참여형  |
+| `2010-10-20 15:55` | 제갈공명(예시) |https://github.com/Pitt-CSC/Summer2021-Internships | 연구실연수생형  | 
 
 ### 질의응답: [Google form 이용](https://docs.google.com/forms/d/e/1FAIpQLSdN5AtF8bDQDJN3Vh896W_iKJfcE2RMJBCAl9A69kzLvkrcow/viewform?usp=sf_link)
