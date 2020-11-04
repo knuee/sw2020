@@ -1,4 +1,35 @@
 ## 자주 묻고 질문들(frequently asked questions)
+1. __(NEW 11/4)__ 제출하는 링크는 깃허브 계정 프로필입니까 특정한 하나의 레포지터리입니까? 전자라면 모든 레포지터리에 summary.md를 추가해야합니까?
+    - [예시1](https://github.com/Dongik-Bae)의 경우 하나의 github repository 가 아니고 그 사용자의 repository 들을 보여줍니다. 
+      이 경우, readme.md 와 summary.md 를 만들 수 없습니다. 각각의 repository 에 만들 필요는 없고 다음과 같이 
+      새로 dummy repository (시작점) 하나를 만들고, 거기에 readme.md 와 summary.md 를 추가하면 됩니다.
+    - 예를 들면
+    1. create github.com/Dongik-Bae/sw2020eval/
+    2. create github.com/Dongik-Bae/sw2020eval/README.md
+    
+    <내용>
+```md
+# 평가용 repositories
+1. [summary.md](summary.md)
+2. [Big-Integer-Calculator](https://github.com/Dongik-Bae/Big-Integer-Calculator)
+3. [2019-Summer-Coding-Camp-Problems](https://github.com/Dongik-Bae/2019-Summer-Coding-Camp-Problems)
+4. [Text-RPG](https://github.com/Dongik-Bae/Text-RPG)
+5. [Huffman-Code-Generater](https://github.com/Dongik-Bae/Huffman-Code-Generater)
+
+.....
+
+3. create github.com/Dongik-Bae/sw2020eval/summary.md
+.....
+## 교과목형
+- COMP217 자바프로그래밍 / 2019년 1학기 / 장길진
+- COMP319 알고리즘1 / 2019년 2학기 / 장길진
+
+## 연구실연수생형
+연수기간 2019.9-2020.2
+참여연구실 김철수 교수님, 전자공학 연구실, 박사과정 홍길동
+....
+```
+
 1. 교과목 성적은 반영되지 않나요?
     - 직접적으로 반영되지 않지만 본인의 github 에 소프트웨어 교과목을 수강하면서 수행한 과제를 잘 정리하면 본인이 열심히 한 것을 반영할 수 있습니다.
 1. 경진대회에서 우수한 성적으로 입상하였습니다. 이를 평가에 반영해 주실 수 있을까요?
