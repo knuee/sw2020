@@ -20,7 +20,7 @@
     ```
     
     3. create github.com/Dongik-Bae/sw2020eval/summary.md
-      - [example_summary.md](example_summary.md) 를 보고 만든다.
+        - [example_summary.md](example_summary.md) 를 보고 만든다.
 
 1. 교과목 성적은 반영되지 않나요?
     - 직접적으로 반영되지 않지만 본인의 github 에 소프트웨어 교과목을 수강하면서 수행한 과제를 잘 정리하면 본인이 열심히 한 것을 반영할 수 있습니다.
