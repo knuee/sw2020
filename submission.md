@@ -21,7 +21,8 @@
 | 11/3/2020 18:58:53 | 권현수 | https://github.com/KwonHyeonSu | 교과목형, 연구실연수생형, 자율과제형 | 
 | 11/3/2020 20:35:54 | 채지영 | https://github.com/horkheimer8 | 외부참여형, 자율과제형 | 
 | 11/4/2020 16:35:04 | 허재원 | https://github.com/Huh-jae-won/SW | 교과목형 | 
-
+| 11/7/2020 16:46:54 | 배성규 | https://github.com/Seonggyu-Bae/SW2020| 교과목형 |
+| 11/8/2020 1:57:09 | 조민기 | https://github.com/MinkiJo/my-sw2020 | 교과목형, 자율과제형 |
 ---
 
 ## 일정(진행 상황에 따라 변경될 수 있습니다)
