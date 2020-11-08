@@ -11,18 +11,18 @@
 
 | 제출일시 | 이름 | 주소 | 유형 | 비고/수정사항 | 
 |:---|:---:|:---|:---|:--|
-| 10/22/2020 23:31:03 | 김승현	| https://github.com/kseh1029/sw2020 | 교과목형, 하드웨어 및 소프트웨어, 운영체제에 대한 내용 | 2번제출->뒤의 것 |
-| 10/23/2020 22:46:43 | 정소영	| https://github.com/cowzero | 교과목형	| 
-| 10/24/2020 5:34:15 | 이근정	| https://github.com/LEE-GEUN-JEONG/KNU-SW | 교과목형, 외부참여형, 자율과제형	|
-| 10/24/2020 18:52:16 | 권세진	| https://github.com/0307kwon | 교과목형, 연구실연수생형, 자율과제형 | 
-| 10/30/2020 20:58:01 | 박재성 | https://github.com/wotjd0715 | 교과목형, 자율과제형 | 둘중에 어떤 것을? 원칙대로면 뒤의 것을 해야 하는데. |
-| 10/30/2020 21:02:45 | 박재성 | https://github.com/wotjd0715/Hustar-HAI | 자율과제형 | wotjd0715/Hustar-HAI 만으로 평가받고 싶나요? |
-| 10/31/2020 16:33:16 | 구주일 | https://github.com/63days | 자율과제형 | 
-| 11/3/2020 18:58:53 | 권현수 | https://github.com/KwonHyeonSu | 교과목형, 연구실연수생형, 자율과제형 | 
-| 11/3/2020 20:35:54 | 채지영 | https://github.com/horkheimer8 | 외부참여형, 자율과제형 | 
-| 11/4/2020 16:35:04 | 허재원 | https://github.com/Huh-jae-won/SW | 교과목형 | 
-| 11/7/2020 16:46:54 | 배성규 | https://github.com/Seonggyu-Bae/SW2020| 교과목형 |
 | 11/8/2020 1:57:09 | 조민기 | https://github.com/MinkiJo/my-sw2020 | 교과목형, 자율과제형 |
+| 11/7/2020 16:46:54 | 배성규 | https://github.com/Seonggyu-Bae/SW2020| 교과목형 |
+| 11/4/2020 16:35:04 | 허재원 | https://github.com/Huh-jae-won/SW | 교과목형 | 
+| 11/3/2020 20:35:54 | 채지영 | https://github.com/horkheimer8 | 외부참여형, 자율과제형 | 
+| 11/3/2020 18:58:53 | 권현수 | https://github.com/KwonHyeonSu | 교과목형, 연구실연수생형, 자율과제형 | 
+| 10/31/2020 16:33:16 | 구주일 | https://github.com/63days | 자율과제형 | 
+| 10/30/2020 21:02:45 | 박재성 | https://github.com/wotjd0715/Hustar-HAI | 자율과제형 | wotjd0715/Hustar-HAI 만으로 평가받고 싶나요? |
+| 10/30/2020 20:58:01 | 박재성 | https://github.com/wotjd0715 | 교과목형, 자율과제형 | 둘중에 어떤 것을? 원칙대로면 뒤의 것을 해야 하는데. |
+| 10/24/2020 18:52:16 | 권세진	| https://github.com/0307kwon | 교과목형, 연구실연수생형, 자율과제형 | 
+| 10/24/2020 5:34:15 | 이근정	| https://github.com/LEE-GEUN-JEONG/KNU-SW | 교과목형, 외부참여형, 자율과제형	|
+| 10/23/2020 22:46:43 | 정소영	| https://github.com/cowzero | 교과목형	| 
+| 10/22/2020 23:31:03 | 김승현	| https://github.com/kseh1029/sw2020 | 교과목형, 하드웨어 및 소프트웨어, 운영체제에 대한 내용 | 2번제출->뒤의 것 |
 ---
 
 ## 일정(진행 상황에 따라 변경될 수 있습니다)
