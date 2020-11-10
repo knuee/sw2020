@@ -11,8 +11,7 @@
 
 | 제출일시 | 이름 | 주소 | 유형 | 비고/수정사항 | 
 |:---|:---:|:---|:---|:--|
-| 11/11/2020 0:46:43	| 송민혜	| https://github.com/songminhye 	| 교과목형, 경진대회형, 자율과제형| 
-| ~~11/11/2020 0:41:28~~	| ~~송민혜~~	| ~~https://github.com/songminhye~~ 	| ~~교과목형, 경진대회형, 자율과제형~~| 동일한 것 2번 제출 |
+| 11/11/2020 0:46:43	| 송민혜	| https://github.com/songminhye 	| 교과목형, 경진대회형, 자율과제형| 이메일로 11/10/2020 19:32:10 에 제출하였음, Google form 으로 다시 제출 |
 | 11/10/2020 23:49:59	| 김준기	| https://github.com/junhardstudy/swsummaryrepository	| 교과목형 | 
 | 11/10/2020 23:47:43	| 정원재	| https://github.com/VVONJAE	| 교과목형, 자율과제형| 
 | 11/10/2020 23:47:27	| 안정민	| https://github.com/nimoloo	| 교과목형 | 
