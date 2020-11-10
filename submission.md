@@ -29,8 +29,8 @@
 | 11/3/2020 20:35:54 | 채지영 | https://github.com/horkheimer8 | 외부참여형, 자율과제형 | 
 | 11/3/2020 18:58:53 | 권현수 | https://github.com/KwonHyeonSu | 교과목형, 연구실연수생형, 자율과제형 | 
 | 10/31/2020 16:33:16 | 구주일 | https://github.com/63days | 자율과제형 | 
-| 10/30/2020 21:02:45 | 박재성 | https://github.com/wotjd0715/Hustar-HAI | 자율과제형 | wotjd0715/Hustar-HAI 만으로 평가받고 싶나요? |
-| 10/30/2020 20:58:01 | 박재성 | https://github.com/wotjd0715 | 교과목형, 자율과제형 | 둘중에 어떤 것을? 원칙대로면 뒤의 것을 해야 하는데. |
+| 10/30/2020 21:02:45 | 박재성 | https://github.com/wotjd0715/Hustar-HAI | 자율과제형 | 2차 제출  |
+| ~~10/30/2020 20:58:01~~ | ~~박재성~~ | ~~https://github.com/wotjd0715~~ | ~~교과목형, 자율과제형~~ | 1차 제출. 나중에 제출한 것으로 평가 |
 | 10/24/2020 18:52:16 | 권세진	| https://github.com/0307kwon | 교과목형, 연구실연수생형, 자율과제형 | 
 | 10/24/2020 5:34:15 | 이근정	| https://github.com/LEE-GEUN-JEONG/KNU-SW | 교과목형, 외부참여형, 자율과제형	|
 | 10/23/2020 22:46:43 | 정소영	| https://github.com/cowzero | 교과목형	| 
