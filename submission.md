@@ -11,6 +11,17 @@
 
 | 제출일시 | 이름 | 주소 | 유형 | 비고/수정사항 | 
 |:---|:---:|:---|:---|:--|
+| 11/11/2020 0:46:43	| 송민혜	| https://github.com/songminhye 	| 교과목형, 경진대회형, 자율과제형| 
+| ~~11/11/2020 0:41:28~~	| ~~송민혜~~	| ~~https://github.com/songminhye~~ 	| ~~교과목형, 경진대회형, 자율과제형~~| 동일한 것 2번 제출 |
+| 11/10/2020 23:49:59	| 김준기	| https://github.com/junhardstudy/swsummaryrepository	| 교과목형 | 
+| 11/10/2020 23:47:43	| 정원재	| https://github.com/VVONJAE	| 교과목형, 자율과제형| 
+| 11/10/2020 23:47:27	| 안정민	| https://github.com/nimoloo	| 교과목형 | 
+| 11/10/2020 23:44:42	| 김성록	| https://github.com/CasselKim/sw2020/blob/main/Summary.md	| 교과목형, 연구실연수생형, 외부참여형, 경진대회형, 자율과제형, 공부내용정리 | 
+| 11/10/2020 23:22:43	| 김애리	| https://github.com/AriAri-town/SW2020	| 교과목형, 2학기 C프로그래밍과 실습 수업의 조교 활동 | 
+| 11/10/2020 22:51:15	| 구주일	| https://github.com/63days/sw2020/	| 경진대회형, 자율과제형 | 
+| 11/10/2020 21:19:37 | 김준기	| https://github.com/junhardstudy/swsummaryrepository | 교과목형 | 
+| 11/10/2020 21:05:03	| 박세인	| https://github.com/SEIN126/sw2020/blob/main/Summary.md	| 교과목형, 자율과제형, 개인공부, 경북대학교 IT교육센터에서 수강한 라즈베리파이 수업
+| 
 | 11/10/2020 18:00:39	| 최강민 | https://github.com/kei01138/sw2020/blob/main/summary.md	| 외부참여형, 경진대회형, 자율과제형 | 
 | 11/10/2020 17:08:45	| 이준병	| https://github.com/LJBang/KNU_SW.git	| 교과목형, 경진대회형, 자율과제형| 
 | 11/10/2020 16:41:16 | 강태하	|  https://github.com/kdh7575070/teaha-kang	 | 교과목형, 외부참여형, 경진대회형, 자율과제형|
