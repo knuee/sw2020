@@ -1,5 +1,7 @@
 ## 자주 묻고 질문들(frequently asked questions)
-1. __(NEW 11/4)__ 제출하는 링크는 깃허브 계정 프로필입니까 특정한 하나의 레포지터리입니까? 전자라면 모든 레포지터리에 summary.md를 추가해야합니까?
+1. __(NEW 11/10)__ github 는 크기가 큰 파일 업로드는 허용하지 않습니다(https://qastack.kr/webapps/45254/file-size-and-storage-limits-on-github). 
+따라서, 크기가 큰 파일은 클라우드에 올리고 github 에는 링크만 적어 놓아도 됩니다. 많은 오픈소스들이 그렇게 합니다.
+1. __(11/4)__ 제출하는 링크는 깃허브 계정 프로필입니까 특정한 하나의 레포지터리입니까? 전자라면 모든 레포지터리에 summary.md를 추가해야합니까?
     - [예시1](https://github.com/Dongik-Bae)의 경우 하나의 github repository 가 아니고 그 사용자의 repository 들을 보여줍니다. 
       이 경우, readme.md 와 summary.md 를 만들 수 없습니다. 각각의 repository 에 만들 필요는 없고 다음과 같이 
       새로 dummy repository (시작점) 하나를 만들고, 거기에 readme.md 와 summary.md 를 추가하면 됩니다.
@@ -22,7 +24,7 @@
     3. create github.com/Dongik-Bae/sw2020eval/summary.md
         - [example_summary.md](example_summary.md) 를 보고 만든다.
 
-1. __(NEW 11/4)__ 인터넷에 있는 내용이나 강의자료, 논문, 책 등 이미 공개된 내용을 추가해도 부정행위에 포함되나요?
+1. __(11/4)__ 인터넷에 있는 내용이나 강의자료, 논문, 책 등 이미 공개된 내용을 추가해도 부정행위에 포함되나요?
     - 원칙은 본인이 한 것으로 평가받는 것입니다. 퍼온 것과 본인이 직접 작성한 것이 무엇인지 잘 명시해 주면(가급적 main README.md 에) 부정행위로 간주하지 않습니다.
     - 퍼온 내용에 대해서는 "구성을 얼마나 다른 사람이 보기 좋게 했는가" 로 평가점수를 받을 수 있습니다. 그러니 출처를 잘 밝혀서 불필요한 문제가 생기지 않도록 조심하면 좋을 것 같습니다.
 1. 교과목 성적은 반영되지 않나요?
