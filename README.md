@@ -20,7 +20,7 @@
 1. [제출](submission.md)
 1. [github 평가방법 설명 및 1차평가 결과(200점 만점)](evaluation1.md)
 1. [2차평가 결과(200점 만점)](evaluation2.md)
-1. ~~[온라인 면담 평가방법 설명 및 최종결과(100점 만점)](evaluation_interview_obsolete.md)~~
+1. ~~[온라인 면담 평가방법 설명 및 최종결과(100점 만점)](backup/evaluation_interview_obsolete.md)~~
 1. [최종결과](evaluation_final.md)
 1. [자주 묻는 질문들](faq.md)
 
