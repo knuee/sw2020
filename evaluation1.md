@@ -66,5 +66,6 @@ __(운영위원회를 거쳐야 해서 인원 및 장학금액에 변동이 있�
 1. 4등급: __최대 50만원__ x 20명
 
 <!-- ### 참고: [2019년 평가 우수 github list](example_submissions_2019.md) -->
+### [최종결과](evaluation_final.md): 2차 심사 및 최종검증이 마무리되면 업데이트합니다.
 ### 평가결과에 대한 [appeal (Google form 이용)](https://docs.google.com/forms/d/e/1FAIpQLScZYCGBLcq8zOybtAGVubsTtUArOP7mBwHj64DF6p1cZoDF2Q/viewform?usp=sf_link)
 ### 질의응답: [Google form 이용](https://docs.google.com/forms/d/e/1FAIpQLSdN5AtF8bDQDJN3Vh896W_iKJfcE2RMJBCAl9A69kzLvkrcow/viewform?usp=sf_link)
