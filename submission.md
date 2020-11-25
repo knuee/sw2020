@@ -13,14 +13,14 @@
 * 중복된 것들 일부 남아 있습니다.(수작업이라서)
 * __(공통)__ summary.md 가 없는 것들이 많습니다. 거의 대부분이네요. [FAQ](faq.md)를 보세요
 
-| 제출일시 | 이름 | 주소 | 유형 | 1차지원 업데이트 | 
+| 제출일시 | 이름 | 주소 | 유형 | 1차지원 업데이트 여부 | 
 |:---|:---:|:---|:---|:--|
 | 11/25/2020 9:03:10    | 나경운        | https://github.com/tsunaq/sw2020                              | 교과목형, 자율과제형                                  | 아니오
 | 11/24/2020 23:53:10   | 김준기        | https://github.com/junhardstudy/swsummaryrepository           | 교과목형                                              | 네
 | 11/24/2020 22:30:49   | 안효준        | https://github.com/ke-nai/sw2020/blob/main/README.md          | 교과목형, 자율과제형                                  | 아니오
 | 11/24/2020 22:26:53   | 김남영        | https://github.com/skadud8951/2020sw/                         | 교과목형, 경진대회형, 자율과제형                      | 아니오
 | 11/24/2020 22:10:13   | 강권우        | https://github.com/kunwoo3121/sw2020                          | 교과목형                                              | 네
-| 11/24/2020 21:47:43   | 김남영        | https://github.com/skadud8951/2020sw/                         | 교과목형, 자율과제형                                  | 아니오
+| ~~11/24/2020 21:47:43~~   | ~~김남영~~ | ~~https://github.com/skadud8951/2020sw/~~ | ~~교과목형, 자율과제형~~ | ~~아니오~~
 | 11/24/2020 19:10:22   | 김현준        | https://github.com/hwa10209/sw2020/blob/master/summary.md     | 교과목형                                              | 아니오
 | 11/24/2020 18:21:04   | 장하림        | https://github.com/GITHALIM/SW2020/blob/main/summary.md       | 외부참여형, 경진대회형, 자율과제형                    | 아니오
 | 11/24/2020 14:21:01   | 최아영        | https://github.com/kelly9854/sw2020                           | 교과목형, 자율과제형                                  | 아니오
@@ -28,7 +28,7 @@
 | 11/23/2020 18:58:48   | 이윤지        | https://github.com/YJLi1029/SW2020                            | 교과목형, 외부참여형, 자율과제형                      | 아니오
 | 11/23/2020 17:47:21   | 이준병        | https://github.com/LJBang/KNU_SW                              | 교과목형, 경진대회형, 자율과제형                      | 네
 | 11/20/2020 13:52:33   | 권현수        | https://github.com/KwonHyeonSu/sw2020/blob/main/summary.md    | 교과목형, 연구실연수생형, 경진대회형, 자율과제형      | 네
-| 11/19/2020 13:10:54   | 권현수        | https://github.com/KwonHyeonSu/sw2020                         | 교과목형, 연구실연수생형, 자율과제형                  | 네
+| ~~11/19/2020 13:10:54~~  | ~~권현수~~ | ~~https://github.com/KwonHyeonSu/sw2020~~ | ~~교과목형, 연구실연수생형, 자율과제형~~ | ~~네~~
 | 11/18/2020 2:47:39    | 이근정        | https://github.com/LEE-GEUN-JEONG/SW2020/blob/main/summary.md | 교과목형, 자율과제형, IDEC 수료증 첨부 (VERILOG HDL)  | 네
 |:---|:---:|:---|:---|:--|
 | 11/10/2020 23:47:43	| 정원재	| https://github.com/VVONJAE	| 교과목형, 자율과제형 | 1차에 제출된 것 재평가 |
