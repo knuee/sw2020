@@ -34,15 +34,9 @@
 | 11/7/2020 16:46:54    | 배성규        | https://github.com/Seonggyu-Bae/SW2020                        | 0     | 6     | 4     | 0     | 100   | 12    | 3등급|
 | 11/10/2020 18:00:39   | 최강민        | https://github.com/kei01138/sw2020/blob/main/summary.md       | 3     | 0     | 2     | 1     | 77    | 13    | 3등급|
 | 11/11/2020 16:18:33   | 김희수        | https://github.com/zentornoe/KNU_SW_ND                        | 0     | 3     | 5     | 2     | 77    | 13    | 3등급|
-| 11/9/2020 21:57:34    | 강권우        | https://github.com/kunwoo3121/sw2020                          | 0     | 1     | 6     | 3     | 63    | 15    | 4등급|
-| 11/3/2020 18:58:53    | 권현수        | https://github.com/KwonHyeonSu                                | 0     | 2     | 2     | 6     | 56    | 16    | 4등급|
 | 11/10/2020 23:22:43   | 김애리        | https://github.com/AriAri-town/SW2020                         | 0     | 0     | 6     | 4     | 54    | 17    | 4등급|
-| 11/10/2020 17:08:45   | 이준병        | https://github.com/LJBang/KNU_SW.git                          | 0     | 3     | 1     | 3     | 52    | 18    | 4등급|
 | 11/11/2020 0:46:43    | 송민혜        | https://github.com/songminhye                                 | 0     | 0     | 6     | 1     | 45    | 19    | 4등급|
 | 11/9/2020 22:47:47    | 고미진        | https://github.com/gieflij/sw_github                          | 0     | 1     | 2     | 6     | 44    | 20    | 4등급|
-| 10/24/2020 5:34:15    | 이근정        | https://github.com/LEE-GEUN-JEONG/KNU-SW                      | 0     | 1     | 3     | 3     | 42    | 21    | 4등급|
-| 11/10/2020 23:49:59   | 김준기        | https://github.com/junhardstudy/swsummaryrepository           | 0     | 1     | 1     | 6     | 37    | 22    | 4등급|
-| 11/11/2020 16:11:02   | 강태하        | https://github.com/kdh7575070/taeha-kang                      | 0     | 0     | 2     | 6     | 32    | 23    | 4등급|
 | 10/23/2020 22:46:43   | 정소영        | https://github.com/cowzero                                    | 0     | 0     | 3     | 2     | 27    | 24    | 4등급|
 | 11/10/2020 23:47:43   | 정원재        | https://github.com/VVONJAE                                    | 0     | 0     | 2     | 3     | 23    | 25    | 4등급|
 | 10/30/2020 21:02:45   | 박재성        | https://github.com/wotjd0715/Hustar-HAI                       | 0     | 0     | 0     | 7     | 21    | 26    |      |
@@ -50,6 +44,15 @@
 | 11/3/2020 20:35:54    | 채지영        | https://github.com/horkheimer8                                | 0     | 0     | 1     | 1     | 10    | 28    |      |
 | 11/10/2020 1:32:45    | 변병문        | https://github.com/Byung-moon/sw2020                          | 0     | 0     | 1     | 1     | 10    | 28    |      |
 | 11/10/2020 23:47:27   | 안정민        | https://github.com/nimoloo                                    | 0     | 0     | 0     | 1     | 3     | 30    |      |
+
+## 제외됨
+| 제출일시 | 이름 | 주소 | S+ | S | A | B | 점수 | 1차평가등급순위 | 1차평가등급 | __제외사유__ |
+| 11/9/2020 21:57:34    | 강권우        | https://github.com/kunwoo3121/sw2020                          | 0     | 1     | 6     | 3     | 63    | 15    | 4등급|
+| 11/3/2020 18:58:53  | 권현수 | https://github.com/KwonHyeonSu | 0     | 2     | 2     | 6     | 56    | 16    | ~~4등급~~| 2차제출 |
+| 11/10/2020 17:08:45 | 이준병 | https://github.com/LJBang/KNU_SW.git | 0     | 3     | 1     | 3     | 52    | 18    | ~~4등급~~ | 2차제출 |
+| 10/24/2020 5:34:15  | 이근정 | https://github.com/LEE-GEUN-JEONG/KNU-SW | 0     | 1     | 3     | 3     | 42    | 21    | ~~4등급~~| 2차제출 |
+| 11/10/2020 23:49:59   | 김준기        | https://github.com/junhardstudy/swsummaryrepository           | 0     | 1     | 1     | 6     | 37    | 22    | 4등급|
+| 11/11/2020 16:11:02   | 강태하        | https://github.com/kdh7575070/taeha-kang                      | 0     | 0     | 2     | 6     | 32    | 23    | 4등급|
 
 <!-- ### 참고: [2019년 평가 우수 github list](example_submissions_2019.md) -->
 ### 평가결과에 대한 [appeal (Google form 이용)](https://docs.google.com/forms/d/e/1FAIpQLScZYCGBLcq8zOybtAGVubsTtUArOP7mBwHj64DF6p1cZoDF2Q/viewform?usp=sf_link)
