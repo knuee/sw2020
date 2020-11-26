@@ -26,7 +26,7 @@
 | 11/24/2020 22:26:53   | 김남영        | https://github.com/skadud8951/2020sw/                         | 교과목형, 경진대회형, 자율과제형                      | 아니오
 | 11/24/2020 22:10:13   | 강권우        | https://github.com/kunwoo3121/sw2020                          | 교과목형                                              | 네
 | ~~11/24/2020 21:47:43~~   | ~~김남영~~ | ~~https://github.com/skadud8951/2020sw/~~ | ~~교과목형, 자율과제형~~ | ~~아니오~~
-| 11/24/2020 19:10:22   | 김현준        | https://github.com/hwa10209/sw2020/blob/master/summary.md     | 교과목형                                              | 아니오
+| ~~11/24/2020 19:10:22~~   | ~~김현준~~ | ~~https://github.com/hwa10209/sw2020/blob/master/summary.md~~   | ~~교과목형~~                                              | ~~아니오~~
 | 11/24/2020 18:21:04   | 장하림        | https://github.com/GITHALIM/SW2020/blob/main/summary.md       | 외부참여형, 경진대회형, 자율과제형                    | 아니오
 | 11/24/2020 14:21:01   | 최아영        | https://github.com/kelly9854/sw2020                           | 교과목형, 자율과제형                                  | 아니오
 | 11/23/2020 21:10:01   | 강태하        | https://github.com/kdh7575070/taeha-kang                      | 교과목형, 경진대회형, 자율과제형                      | 네
