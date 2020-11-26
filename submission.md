@@ -16,6 +16,10 @@
 
 | 제출일시 | 이름 | 주소 | 유형 | 1차지원 업데이트 여부 | 
 |:---|:---:|:---|:---|:--|
+| 11/26/2020 23:05:31	| 구주일	| https://github.com/63days/sw2020	                        | 경진대회형, 자율과제형	           | 네
+| 11/26/2020 22:41:29	| 김현준	| https://github.com/hwa10209/sw2020/blob/master/summary.md	| 교과목형, 경진대회형, 자율과제형	| 아니오
+| 11/26/2020 22:09:17	| 김동원	| https://github.com/petersmith1996                         | 교과목형, 자율과제형               | 	아니오
+| 11/26/2020 19:37:36	| 장희덕	| https://github.com/Heedeok/sw2020                         | 교과목형, 연구실연수생형, 자율과제형| 	아니오
 | 11/25/2020 9:03:10    | 나경운        | https://github.com/tsunaq/sw2020                              | 교과목형, 자율과제형                                  | 아니오
 | 11/24/2020 23:53:10   | 김준기        | https://github.com/junhardstudy/swsummaryrepository           | 교과목형                                              | 네
 | 11/24/2020 22:30:49   | 안효준        | https://github.com/ke-nai/sw2020/blob/main/README.md          | 교과목형, 자율과제형                                  | 아니오
