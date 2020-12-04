@@ -14,6 +14,27 @@
 
 | 제출일시 | 이름 | 주소 | S+ | S | A | B | 점수 | __순위__ | __등급__ | 
 |:---|:---|:---|---:|---:|---:|---:|---:|---:|:---:|
+| 11/26/2020 23:05:31   | 구주일        | https://github.com/63days/sw2020                              | 8     | 2     | 0     | 0     | 184   | 1     | 1등급|
+| 11/20/2020 13:52:33   | 권현수        | https://github.com/KwonHyeonSu/sw2020/blob/main/summary.md    | 7     | 3     | 0     | 0     | 176   | 2     | 1등급|
+| 11/23/2020 21:10:01   | 강태하        | https://github.com/kdh7575070/taeha-kang                      | 6     | 3     | 1     | 0     | 163   | 3     | 1등급|
+| 11/23/2020 18:58:48   | 이윤지        | https://github.com/YJLi1029/SW2020                            | 4     | 4     | 1     | 1     | 138   | 4     | 2등급|
+| 11/26/2020 19:37:36   | 장희덕        | https://github.com/Heedeok/sw2020                             | 3     | 4     | 2     | 1     | 125   | 5     | 2등급|
+| 11/26/2020 22:41:29   | 김현준        | https://github.com/hwa10209/sw2020/blob/master/summary.md     | 1     | 7     | 2     | 0     | 118   | 6     | 2등급|
+| 11/18/2020 2:47:39    | 이근정        | https://github.com/LEE-GEUN-JEONG/SW2020/blob/main/summary.md | 0     | 8     | 2     | 0     | 110   | 7     | 2등급|
+| 11/24/2020 22:30:49   | 안효준        | https://github.com/ke-nai/sw2020/blob/main/README.md          | 0     | 5     | 5     | 0     | 95    | 8     | 3등급|
+| 11/23/2020 17:47:21   | 이준병        | https://github.com/LJBang/KNU_SW                              | 0     | 5     | 3     | 2     | 87    | 9     | 3등급|
+| 11/24/2020 14:21:01   | 최아영        | https://github.com/kelly9854/sw2020                           | 0     | 4     | 5     | 1     | 86    | 10    | 3등급|
+| 11/24/2020 22:10:13   | 강권우        | https://github.com/kunwoo3121/sw2020                          | 0     | 4     | 5     | 1     | 86    | 10    | 3등급|
+| 11/24/2020 18:21:04   | 장하림        | https://github.com/GITHALIM/SW2020/blob/main/summary.md       | 0     | 2     | 8     | 0     | 80    | 12    | 3등급|
+| 11/24/2020 22:26:53   | 김남영        | https://github.com/skadud8951/2020sw/                         | 1     | 1     | 5     | 3     | 76    | 13    | 3등급|
+| 11/24/2020 23:53:10   | 김준기        | https://github.com/junhardstudy/swsummaryrepository           | 0     | 3     | 4     | 3     | 73    | 14    | 3등급|
+| 11/25/2020 9:03:10    | 나경운        | https://github.com/tsunaq/sw2020                              | 1     | 0     | 6     | 3     | 71    | 15    | 3등급|
+| 11/4/2020 16:35:04    | 허재원        | https://github.com/Huh-jae-won/SW                             | 0     | 0     | 3     | 6     | 39    | 16    | 4등급|
+| 11/26/2020 22:09:17   | 김동원        | https://github.com/petersmith1996                             | 0     | 0     | 2     | 8     | 38    | 17    | 4등급|
+| 10/30/2020 21:02:45   | 박재성        | https://github.com/wotjd0715/Hustar-HAI                       | 0     | 0     | 2     | 7     | 35    | 18    | 4등급|
+| 11/3/2020 20:35:54    | 채지영        | https://github.com/horkheimer8                                | 0     | 0     | 0     | 8     | 24    | 19    | 4등급|
+| 11/10/2020 1:32:45    | 변병문        | https://github.com/Byung-moon/sw2020                          | 0     | 0     | 0     | 5     | 15    | 20    |      |
+| 11/10/2020 23:47:27   | 안정민        | https://github.com/nimoloo                                    | 0     | 0     | 0     | 0     | 0     | 21    |      |
 
 # 장학금 지급 액수 및 인원(1차/2차 평가 합계)
 __(운영위원회를 거쳐야 해서 인원 및 장학금액에 변동이 있을 수 있지만 최종 지급액과 크게 차이나진 않을 것 같습니다.)__
