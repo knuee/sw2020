@@ -46,6 +46,7 @@
 | 정원재        | https://github.com/VVONJAE                                    | 0     | 0     | 2     | 3     | 23    | 4등급|
 
 ### 제출해야 할 서류
-위의 선발된 학생들은 첨부된 
+위의 선발된 학생들은 [전자공학부 게시판의 안내](http://see.knu.ac.kr/content/board/notice.html?pg=vv&fidx=98384&gtid=notice&opt=&sword=&page=1)를 보고 
+필요한 서류들을 제출해 주기 바랍니다. 이메일로도 한번 더 보내겠습니다.
 
 ### 질의응답: [Google form 이용](https://docs.google.com/forms/d/e/1FAIpQLSdN5AtF8bDQDJN3Vh896W_iKJfcE2RMJBCAl9A69kzLvkrcow/viewform?usp=sf_link)
