@@ -36,13 +36,6 @@
 | 11/10/2020 1:32:45    | 변병문        | https://github.com/Byung-moon/sw2020                          | 0     | 0     | 0     | 5     | 15    | 20    |      |
 | 11/10/2020 23:47:27   | 안정민        | https://github.com/nimoloo                                    | 0     | 0     | 0     | 0     | 0     | 21    |      |
 
-# 장학금 지급 액수 및 인원(1차/2차 평가 합계)
-__(운영위원회를 거쳐야 해서 인원 및 장학금액에 변동이 있을 수 있지만 최종 지급액과 크게 차이나진 않을 것 같습니다.)__
-1. 1등급: __최대 200만원__ x 5명
-1. 2등급: __최대 150만원__ x 10명
-1. 3등급: __최대 100만원__ x 15명
-1. 4등급: __최대 50만원__ x 20명
-
 <!-- ### 참고: [2019년 평가 우수 github list](example_submissions_2019.md) -->
 ### [최종결과](evaluation_final.md): 2차 심사 및 최종검증이 마무리되면 업데이트합니다.
 ### 평가결과에 대한 [appeal (Google form 이용)](https://docs.google.com/forms/d/e/1FAIpQLScZYCGBLcq8zOybtAGVubsTtUArOP7mBwHj64DF6p1cZoDF2Q/viewform?usp=sf_link)
