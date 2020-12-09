@@ -46,5 +46,6 @@
 | 정원재        | https://github.com/VVONJAE                                    | 0     | 0     | 2     | 3     | 23    | 4등급|
 
 ### 제출해야 할 서류
+위의 선발된 학생들은 첨부된 
 
 ### 질의응답: [Google form 이용](https://docs.google.com/forms/d/e/1FAIpQLSdN5AtF8bDQDJN3Vh896W_iKJfcE2RMJBCAl9A69kzLvkrcow/viewform?usp=sf_link)
