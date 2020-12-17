@@ -13,12 +13,11 @@
 
 | 제출일시 | 이름 | 주소 | 유형 | 비고 |
 |:---|:---:|:---|:---|:--|
-| 12/17/2020 14:05:21   | 최지한        | https://github.com/chlwlgks3/SW2020_2         | 교과목형, 자율과제형
 | 12/16/2020 3:40:29    | 윤동준        | https://github.com/yundj4408/KNU_SW_2020      | 교과목형, 경진대회형, 자율과제형
 | 12/16/2020 23:58:20   | 최혜진        | https://github.com/Hyejin-Choi/sw2020         | 교과목형, 외부참여형, 경진대회형, 자율과제형
 | 12/16/2020 23:53:55   | 김도균        | https://github.com/dogyun-k/sw2020            | 교과목형, 경진대회형, 자율과제형
 | 12/16/2020 22:23:46   | 이원규        | https://github.com/dnjsrb0710/sw2020/blob/master/summary.md   | 교과목형, 외부참여형
-| ~~12/16/2020 18:47:30~~   | ~~최지한~~        | ~~https://github.com/chlwlgks3/SW2020_2~~         | 
+| 12/16/2020 18:47:30   | 최지한        | https://github.com/chlwlgks3/SW2020_2         | 교과목형, 자율과제형
 | 12/16/2020 17:22:41   | 이진우        | https://github.com/tgs04013/SW2020            | 교과목형, 경진대회형, 자율과제형
 | 12/16/2020 16:06:25   | 이윤석        | https://github.com/yunguks/sw2020.git         | 교과목형
 | 12/16/2020 15:15:16   | 양영우        | https://github.com/YangYoungwoo/sw2020        |       교과목형, 자율과제형
