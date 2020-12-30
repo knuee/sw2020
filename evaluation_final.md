@@ -31,7 +31,7 @@
 | 최아영        | https://github.com/kelly9854/sw2020                           | 0     | 4     | 5     | 1     | 86    | 3등급| 100만 | 
 | 강권우        | https://github.com/kunwoo3121/sw2020                          | 0     | 4     | 5     | 1     | 86    | 3등급| 100만 | 
 | 장하림        | https://github.com/GITHALIM/SW2020/blob/main/summary.md       | 0     | 2     | 8     | 0     | 80    | 3등급| 100만 | 
-| 최강민        | https://github.com/kei01138/sw2020/blob/main/summary.md       | 3     | 0     | 2     | 1     | 77    | 3등급| 100만 | 
+<!-- | 최강민        | https://github.com/kei01138/sw2020/blob/main/summary.md       | 3     | 0     | 2     | 1     | 77    | 3등급| 100만 | -->
 | 김희수        | https://github.com/zentornoe/KNU_SW_ND                        | 0     | 3     | 5     | 2     | 77    | 3등급| 100만 | 
 | 김남영        | https://github.com/skadud8951/2020sw/                         | 1     | 1     | 5     | 3     | 76    | 3등급| 100만 | 
 | 김준기        | https://github.com/junhardstudy/swsummaryrepository           | 0     | 3     | 4     | 3     | 73    | 3등급| 100만 | 
