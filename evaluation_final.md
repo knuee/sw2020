@@ -24,8 +24,8 @@
 | 조민기        | https://github.com/MinkiJo/my-sw2020                          | 1     | 7     | 2     | 0     | 118   | 2등급| 150만 | 
 | 김현준        | https://github.com/hwa10209/sw2020/blob/master/summary.md     | 1     | 7     | 2     | 0     | 118   | 2등급| 150만 | 
 | 이근정        | https://github.com/LEE-GEUN-JEONG/SW2020/blob/main/summary.md | 0     | 8     | 2     | 0     | 110   | 2등급| 150만 | 
-| 배성규        | https://github.com/Seonggyu-Bae/SW2020                        | 0     | 6     | 4     | 0     | 100   | 3등급| 100만 | 
-| 안효준        | https://github.com/ke-nai/sw2020/blob/main/README.md          | 0     | 5     | 5     | 0     | 95    | 3등급| 100만 | 
+| 배성규        | https://github.com/Seonggyu-Bae/SW2020                        | 0     | 6     | 4     | 0     | 100   | __2등급__ | __150만__ | 
+| 안효준        | https://github.com/ke-nai/sw2020/blob/main/README.md          | 0     | 5     | 5     | 0     | 95    | __2등급__ | __150만__ | 
 | 이준병        | https://github.com/LJBang/KNU_SW                              | 0     | 5     | 3     | 2     | 87    | 3등급| 100만 | 
 | 최아영        | https://github.com/kelly9854/sw2020                           | 0     | 4     | 5     | 1     | 86    | 3등급| 100만 | 
 | 강권우        | https://github.com/kunwoo3121/sw2020                          | 0     | 4     | 5     | 1     | 86    | 3등급| 100만 | 
@@ -35,12 +35,12 @@
 | 김남영        | https://github.com/skadud8951/2020sw/                         | 1     | 1     | 5     | 3     | 76    | 3등급| 100만 | 
 | 김준기        | https://github.com/junhardstudy/swsummaryrepository           | 0     | 3     | 4     | 3     | 73    | 3등급| 100만 | 
 | 나경운        | https://github.com/tsunaq/sw2020                              | 1     | 0     | 6     | 3     | 71    | 3등급| 100만 | 
-| 김애리        | https://github.com/AriAri-town/SW2020                         | 0     | 0     | 6     | 4     | 54    | 4등급| 50만 | 
-| 송민혜        | https://github.com/songminhye                                 | 0     | 0     | 6     | 1     | 45    | 4등급| 50만 | 
-| 고미진        | https://github.com/gieflij/sw_github                          | 0     | 1     | 2     | 6     | 44    | 4등급| 50만 | 
-| 허재원        | https://github.com/Huh-jae-won/SW                             | 0     | 0     | 3     | 6     | 39    | 4등급| 50만 | 
-| 김동원        | https://github.com/petersmith1996                             | 0     | 0     | 2     | 8     | 38    | 4등급| 50만 | 
-| 박재성        | https://github.com/wotjd0715/Hustar-HAI                       | 0     | 0     | 2     | 7     | 35    | 4등급| 50만 | 
+| 김애리        | https://github.com/AriAri-town/SW2020                         | 0     | 0     | 6     | 4     | 54    | 4등급| __70만__ | 
+| 송민혜        | https://github.com/songminhye                                 | 0     | 0     | 6     | 1     | 45    | 4등급| __60만__ | 
+| 고미진        | https://github.com/gieflij/sw_github                          | 0     | 1     | 2     | 6     | 44    | 4등급| __60만__ | 
+| 허재원        | https://github.com/Huh-jae-won/SW                             | 0     | 0     | 3     | 6     | 39    | 4등급| __60만__ | 
+| 김동원        | https://github.com/petersmith1996                             | 0     | 0     | 2     | 8     | 38    | 4등급| __60만__ | 
+| 박재성        | https://github.com/wotjd0715/Hustar-HAI                       | 0     | 0     | 2     | 7     | 35    | 4등급| __60만__ | 
 | 정소영        | https://github.com/cowzero                                    | 0     | 0     | 3     | 2     | 27    | 4등급| 50만 | 
 | 채지영        | https://github.com/horkheimer8                                | 0     | 0     | 0     | 8     | 24    | 4등급| 50만 | 
 | 정원재        | https://github.com/VVONJAE                                    | 0     | 0     | 2     | 3     | 23    | 4등급| 50만 | 
